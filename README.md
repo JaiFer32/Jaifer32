@@ -1,7 +1,7 @@
-**👋¡Hola! Comunidad GitHub😁
+##👋¡Hola! Comunidad GitHub😁
 ## Sumérgete en el mundo de los datos: un Data Analyst listo para impulsar tu PYME.
 
-Hola, permítanme presentarme, mi nombre es Jaime Peña.
+Permítanme presentarme, mi nombre es Jaime Peña.
 
 Soy un Data Analyst en su trayectoria de consultoría de soluciones basadas en datos. Mi pasión es desentrañar el potencial oculto de los datos para transformarlos en insights valiosos que impulsen el éxito de las PYMES.
 
