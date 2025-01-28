@@ -20,19 +20,24 @@ Si buscas un Data Analyst apasionado, creativo y con una visión estratégica, �
 ## Contacta conmigo
 Contactame por [LinkedIn](www.linkedin.com/in/jpeña23)
 
-## ¿Cuales son mis obejetivos a nivel profesional?
+## ¿Cuales son mis objetivos a nivel profesional?
 Como analista de datos, mi compromiso es maximizar el potencial de los datos para generar resultados tangibles para las empresas. Me enfoco en identificar oportunidades de mejora que permitan reducir costos, optimizar procesos y aumentar la rentabilidad.
 
 ## ¿Qué tecnologías uso actualmente?
 Soluciones de bases de datos on premise:
+
 SQL Server Management Studio
 
 Herramientas de visualización:
 Power BI
-- - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="70" height="70"/>
 
 Ciencia de datos, machine learning, EDA, ETL:
  Python
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-- 
+
+Entorno para desarrollo de codigo Python:
+
 Google Colab
+
+Visual Studio Code
