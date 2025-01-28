@@ -1,4 +1,4 @@
-##👋¡Hola! Comunidad GitHub😁
+👋¡Hola! Comunidad GitHub😁
 ## Sumérgete en el mundo de los datos: un Data Analyst listo para impulsar tu PYME.
 
 Permítanme presentarme, mi nombre es Jaime Peña.
@@ -20,10 +20,10 @@ Si buscas un Data Analyst apasionado, creativo y con una visión estratégica, �
 ## Contacta conmigo
 Contactame por [LinkedIn](www.linkedin.com/in/jpeña23)
 
-¿Cuales son mis metas a nivel profesional?
-Mi principal objetivo como analista de datos es desarrollar soluciones que realmente permitan mejorar los negocios, ya sea a traves de la reduccion de costos o la mejora de procesos que resulten en una mayor generacion de ingresos.
+## ¿Cuales son mis obejetivos a nivel profesional?
+Como analista de datos, mi compromiso es maximizar el potencial de los datos para generar resultados tangibles para las empresas. Me enfoco en identificar oportunidades de mejora que permitan reducir costos, optimizar procesos y aumentar la rentabilidad.
 
-¿Qué tecnologías uso actualmente?
+## ¿Qué tecnologías uso actualmente?
 Soluciones de bases de datos on premise:
 SQL Server SQL Server
 Herramientas de visualización:
