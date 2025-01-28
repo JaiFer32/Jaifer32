@@ -26,8 +26,10 @@ Como analista de datos, mi compromiso es maximizar el potencial de los datos par
 ## ¿Qué tecnologías uso actualmente?
 Soluciones de bases de datos on premise:
 SQL Server SQL Server
+
 Herramientas de visualización:
 Power BI Power BI
+
 Ciencia de datos, machine learning, EDA, ETL:
-Python Python
+Python
 Google Colab
