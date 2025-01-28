@@ -1,4 +1,4 @@
-#👋¡Hola! Soy Jaime Peña😁
+**👋¡Hola! Comunidad GitHub😁
 ## Sumérgete en el mundo de los datos: un Data Analyst listo para impulsar tu PYME.
 
 Hola, permítanme presentarme, mi nombre es Jaime Peña.
