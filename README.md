@@ -25,11 +25,14 @@ Como analista de datos, mi compromiso es maximizar el potencial de los datos par
 
 ## ¿Qué tecnologías uso actualmente?
 Soluciones de bases de datos on premise:
-- ![SQL Server](https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg) SQL Server SQL Server
+- ![SQL Server](https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg)
+- - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="40" height="40"/>
 
 Herramientas de visualización:
 - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) Power BI
+- - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 
 Ciencia de datos, machine learning, EDA, ETL:
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+- 
 Google Colab
